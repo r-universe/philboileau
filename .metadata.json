@@ -1,0 +1,13 @@
+[
+  {
+    "package": "cvCovEst",
+    "oncran": true
+  },
+  {
+    "package": "neatmaps",
+    "oncran": true
+  },
+  {
+    "package": "scPCA"
+  }
+]
