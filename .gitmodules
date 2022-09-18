@@ -13,8 +13,3 @@
 	url = https://github.com/philboileau/neatmaps
 	shallow = true
 	registered = true
-[submodule "scPCA"]
-	path = scPCA
-	url = https://github.com/philboileau/scpca
-	shallow = true
-	registered = true

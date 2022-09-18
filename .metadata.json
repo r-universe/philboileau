@@ -6,8 +6,5 @@
   {
     "package": "neatmaps",
     "oncran": true
-  },
-  {
-    "package": "scPCA"
   }
 ]
