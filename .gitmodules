@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cvCovEst"]
 	path = cvCovEst
 	url = https://github.com/philboileau/cvcovest
-	shallow = true
-	registered = true
 [submodule "neatmaps"]
 	path = neatmaps
 	url = https://github.com/philboileau/neatmaps
-	shallow = true
-	registered = true
 [submodule "scPCA"]
 	path = scPCA
 	url = https://github.com/philboileau/scpca
-	shallow = true
-	registered = true
