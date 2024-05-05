@@ -8,6 +8,3 @@
 [submodule "neatmaps"]
 	path = neatmaps
 	url = https://github.com/philboileau/neatmaps
-[submodule "scPCA"]
-	path = scPCA
-	url = https://github.com/philboileau/scpca
